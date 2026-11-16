@@ -1,0 +1,6 @@
+{
+  "name": "BloxCraft Studio Lite — Criador de Models & Luau",
+  "description": "Criador mobile-first com visual Liquid Glass para gerar modelos 3D por texto ou imagem, editar peças em tempo real e exportar scripts Luau para Roblox Studio Lite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
